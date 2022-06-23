@@ -1,6 +1,31 @@
 # Проект для курсовой работы (Фреймворк Yii2)
 Проект для курсовой работы ДГТУ 3 курс ИиВТ (Сайт ГиБДД с доступом к БД)
-# Скриншоты работы представлены в папке Screens
+
+# Скриншоты работы
+
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/38008327/175385549-e631955d-0c5f-424b-83bc-1a7104df1f13.png"/>
+</p>
+
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/38008327/175385576-24751efe-4d6e-4a43-b75b-924ebec9027a.png"/>
+</p>
+
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/38008327/175385587-e468ab10-5133-4e56-afee-5a879f5a85c8.png"/>
+</p>
+
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/38008327/175385593-aab83003-c9cd-4e96-961d-6ac1ff988430.png"/>
+</p>
+
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/38008327/175385597-7ede2a45-59cb-4c23-a60e-d56bd1a65794.png"/>
+</p>
+
+<p align = "center">
+ <img src = "https://user-images.githubusercontent.com/38008327/175385607-b6b52f52-e1a2-4b5f-b87d-e30ec43ab4df.png"/>
+</p>
 
 # Установка Yii
 Вы можете установить Yii двумя способами: используя Composer или скачав архив. 
